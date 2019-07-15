@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css?family=Gothic+A1:100&display=swap');
+
+* {
+ font-family: 'Gothic A1', sans-serif;
+}
+
+*{
+    background-color: #E6E7E9;
+}
+.center{
+    text-align: center;
+}
+
+.right{
+    text-align: right;
+}
+
+.mediumpadding{
+    box-sizing: border-box;
+    padding: 25px 50px 75px 100px; 
+}
+
+.central{
+    box-sizing: border-box;
+    padding: 0px 100px 300px 0px; 
+}
+
+.tabbar {
+    font-size: 20px;
+}
+
+.headings {
+    font-size: 20px;
+}
+
+.columns {
+    column-count: 2;
+}
