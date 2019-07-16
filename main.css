@@ -23,11 +23,12 @@
 
 .central{
     box-sizing: border-box;
-    padding: 0px 100px 300px 0px; 
+    padding: 0px 100px 0px 100px; 
+
 }
 
 .tabbar {
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .headings {
@@ -36,4 +37,18 @@
 
 .columns {
     column-count: 2;
+    box-sizing: border-box;
+    padding: 0px 300px 0px 300px; 
+   
 }
+
+.bottom {
+    text-align: right;
+    vertical-align: bottom;
+
+}
+
+#references {
+    font-size: 15px;
+   } 
+
